@@ -87,7 +87,15 @@ On launch, you'll be presented with a menu to navigate the app's main modules:
 | 4 | Calories | Search foods and track daily intake |
 | 5 | Weight | Log bodyweight and view trends |
 
+
 ---
+
+## Screenshots
+
+### Main Menu / Workout Logging
+
+![Gym Tracker Screenshot](screenshots/main_menu.png)
+
 
 ## Data & Privacy
 
