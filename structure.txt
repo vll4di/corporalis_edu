@@ -1,0 +1,23 @@
+gym_tracker/
+├── main.py                    entry point, menu loop
+├── db.py                      SQLite setup, schema init
+│
+├── api/
+│   └── food_search.py         Open Food Facts search + parse
+│
+├── models/
+│   ├── workout.py             log and fetch workouts
+│   ├── measurements.py        body measurements
+│   ├── records.py             auto-update personal records
+│   ├── calories.py            food log, daily totals, goals
+│   └── weight.py              weight log, 7/30-day trends
+│
+├── views/
+│   ├── workout_view.py        log workout, history, detail
+│   ├── measurements_view.py   log and view body stats
+│   ├── stats_view.py          personal records table
+│   ├── calorie_view.py        food search, daily summary
+│   └── weight_view.py         log weight, trend display
+│
+└── data/
+    └── gym.db                 SQLite database (auto-created)
