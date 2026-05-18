@@ -17,7 +17,7 @@ A terminal-based fitness and calorie tracking application built with Python and 
 ## Project Structure
 
 ```
-gym_tracker/
+corporalis_edu/
 ├── main.py                    Entry point, menu loop
 ├── db.py                      SQLite setup, schema init
 │
@@ -61,8 +61,8 @@ pip install requests
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/corporalis.edu.git
-cd corporalis.edu
+git clone https://github.com/vll4di/corporalis_edu.git
+cd corporalis_edu
 
 # Install dependencies
 pip install requests
