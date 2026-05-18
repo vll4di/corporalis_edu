@@ -1,4 +1,4 @@
-# corporalis.edu
+# corporalis_edu
 
 A terminal-based fitness and calorie tracking application built with Python and SQLite. Log workouts, track body measurements, monitor your nutrition, and watch your personal records fall — all from the command line.
 
